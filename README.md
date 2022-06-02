@@ -1,2 +1,2 @@
 # DotNetBalta.io
- Projetos .Net com André Baltieri - Balta.io
+ Projetos .Net com André Baltieri - balta.io
